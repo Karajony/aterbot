@@ -1,7 +1,7 @@
 {
 	"client": {
 		"host": "DVC_Craft.aternos.me:20867",
-		"port": "",
+		"port": "20867",
 		"username": "Αδμιν"
 	},
 	
